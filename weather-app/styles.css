@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  text-align: center;
+  background-color: lightgrey;
+}
+
+.controls {
+  margin-bottom: 20px;
+}
+
+.weather-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.weather-info img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.weather-info p {
+  margin: 5px 0;
+}
